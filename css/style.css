@@ -8,6 +8,7 @@ body {
     height: 100vh !important;
     overflow: hidden;
     position: relative;
+    background-color: black;
 }
 
 #canvas {
@@ -19,7 +20,7 @@ body {
 a {
     color: white;
     text-decoration: none;
-    position: absolute;
+    position: fixed;
     bottom: 30px;
     left: 30px;
     font-size: 22px;
